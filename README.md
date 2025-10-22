@@ -46,7 +46,7 @@ A Flutter-based **Lost and Found application** designed to help users report and
 2. **Install dependencies**
    ```bash
    flutter pub get
-3️⃣ Set up Supabase
+3️. **Set up Supabase**
 
 Create a new project in Supabase
 .
@@ -66,6 +66,11 @@ const String supabaseAnonKey = "YOUR_SUPABASE_ANON_KEY";
 
 (or use an .env file if your project is set up for environment variables)
 
-4️⃣ Run the app
-``` bash
+4️. **Run the app**
+```bash
 flutter run
+```
+## 👤 Author
+- **Luhena Abebe**  
+- GitHub: [@LuhenaAbebe](https://github.com/LuhenaAbebe)  
+- LinkedIn: [Luhena Abebe](https://www.linkedin.com/in/luhena-abebe-408314380)  
